@@ -1,0 +1,12 @@
+Ola, bem vindo ao jogo :)
+
+Esse é um jogo de estratégia em tempo real multijogadores em rede. Estilo
+civilizações medievais;
+
+ - Execute as intruções do arquivo instalação.txt;
+ - logo apos abra o projeto ProjetoFinal_PCD;
+ - Dentro do projeto abra o servidor com nome ServidorTCP no pacote TCP, e rode para levantar o servidor;
+ - Depois abra o Principal no pacote default e rode;
+ - É necessário rodar pelo menos duas vezes para jogar("2 jogadores"), o primeiro cria o jogo e o segundo conecta com jogo exixtente no servidor localhost;
+ - Mensagem entre os jogadores esta funcionando para comunicação;
+ - Iniciar Jogo para começar;
